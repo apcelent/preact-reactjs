@@ -1,0 +1,4 @@
+export const CLIENT_ID = 'K05DHY5O5XPD413VH2WDYIJRZC3YX1UZ0DDWJOB1LSISD4XG';
+export const CLIENT_SECRET = 'AUHDGTORWSJ2VAMX5FVYQBEZCUHKTGICQPIOD2XBVPNIP2WA';
+export const VERSION = 'v=20140806';
+export const BASE_URL = 'https://api.foursquare.com/v2/venues/explore?client_id='
